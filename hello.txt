@@ -1,0 +1,2 @@
+This is my frist text file that I created with nano in Termux, And now I push it into github through git
+
